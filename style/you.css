@@ -1,0 +1,16 @@
+.headerinbox{
+    display: flex;
+    width: 100%;
+    margin-bottom: 300px;
+}
+.headerinbox img{
+    width: 100%;
+    height: auto;
+    position: inherit;
+}
+.headercontent{
+    position: absolute;
+    color:black;
+    text-align: right;
+    padding:200px 230px 200px 800px;
+}
